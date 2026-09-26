@@ -1,4 +1,4 @@
-Hi 👋 I'm Aman Singh
+<h1>👋 Hello, I'm Aman Singh</h1>
 
 🎓 BTech Data Science Student
 💻 Learning Data Science, Python, SQL & Machine Learning
